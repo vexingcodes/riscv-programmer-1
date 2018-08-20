@@ -1,0 +1,18 @@
+{
+  "name": "docker-flask",
+  "version": "1.0.0",
+  "description": "Simple example for running Flask in a Docker container.",
+  "main": "index.js",
+  "author": "Aaron Jones",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}

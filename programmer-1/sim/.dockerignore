@@ -1,0 +1,9 @@
+**
+!Pipfile
+!Pipfile.lock
+!package.json
+!yarn.lock
+!gulpfile.js
+!dev.sh
+!dev.supervisor.conf
+!src
